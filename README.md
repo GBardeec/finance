@@ -1,6 +1,6 @@
 ## Setup instructions
 ### Requirements
-1. PHP ^7.4
+1. PHP ^8.1
 2. NPM ^6.13
 3. MySQL DB
 
