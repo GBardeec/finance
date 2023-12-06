@@ -1,0 +1,39 @@
+{
+  "resources/js/app.js": {
+    "dynamicImports": [
+      "resources/js/components/finance/Index.vue",
+      "resources/js/components/auth/Index.vue"
+    ],
+    "file": "assets/app-bc0ea344.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/components/auth/Index.vue": {
+    "file": "assets/Index-d95de0be.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/auth/Index.vue"
+  },
+  "resources/js/components/finance/Index.css": {
+    "file": "assets/Index-d3322228.css",
+    "src": "resources/js/components/finance/Index.css"
+  },
+  "resources/js/components/finance/Index.vue": {
+    "css": [
+      "assets/Index-d3322228.css"
+    ],
+    "file": "assets/Index-7834d31a.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/components/finance/Index.vue"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-041e359a.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
